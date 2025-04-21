@@ -3,4 +3,5 @@
 
 --
 * 00: semantic segmentation
+* 01: RS analyses
 * 
