@@ -23,7 +23,7 @@ page 6
 
 ---
 page 7
-![image](https://github.com/user-attachments/assets/87505c14-35b3-4493-a9d3-97959e4930cd)
+![image](https://github.com/user-attachments/assets/6a3d9fc4-d14f-49ac-9e2a-4eb3590fc20a)
 
 ---
 page 8
