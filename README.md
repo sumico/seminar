@@ -2,4 +2,5 @@
 * Each folder contains source code and materials.
 
 --
-* 00: 
+* 00: semantic segmentation
+* 
