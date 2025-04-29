@@ -7,4 +7,6 @@ The datasets and materials used in the class are stored in **each folder**.
 * 03: transfer learning
 * 04: Pre-training and fine-tuning
 * 05: time series forecasting
+* 06: GeoAI
 * 
+
