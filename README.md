@@ -10,5 +10,6 @@ The datasets and materials used in the class are stored in **each folder**.
 * 06: GeoAI
 * 07: natural language processing
 * 08: text classification
+* 09: Erasing clouds
 * 
 
