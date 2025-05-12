@@ -9,5 +9,6 @@ The datasets and materials used in the class are stored in **each folder**.
 * 05: time series forecasting
 * 06: GeoAI
 * 07: natural language processing
+* 08: text classification
 * 
 
