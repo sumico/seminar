@@ -11,5 +11,6 @@ The datasets and materials used in the class are stored in **each folder**.
 * 07: natural language processing
 * 08: text classification
 * 09: Erasing clouds
+* 10: multimodal
 * 
 
