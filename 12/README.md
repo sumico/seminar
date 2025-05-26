@@ -4,3 +4,6 @@
 
 ![image](https://github.com/user-attachments/assets/063405c7-025d-4561-a8d4-7aae4f6206cb)
 
+---
+
+* Raster Interpolation: https://plugins.qgis.org/plugins/rasterinterpolation/
