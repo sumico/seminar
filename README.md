@@ -14,5 +14,6 @@ The datasets and materials used in the class are stored in **each folder**.
 * 10: multimodal
 * 11: waste landfill sites
 * 12: Spatial interpolation in QGIS
+* 13: Spatiotemporal
 * 
 
