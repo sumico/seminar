@@ -17,5 +17,6 @@ The datasets and materials used in the class are stored in **each folder**.
 * 13: Spatiotemporal
 * 14: Reinforcement Learning
 * 15: Learning flow with PyTorch
+* 16: Solar flare
 * 
 
