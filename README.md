@@ -19,5 +19,5 @@ The datasets and materials used in the class are stored in **each folder**.
 * 15: Learning flow with PyTorch
 * 16: Solar flare
 * 17: NOAA
-* 
+* 18: Annotation rules
 
