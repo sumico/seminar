@@ -22,5 +22,6 @@ The datasets and materials used in the class are stored in **each folder**.
 * 18: Annotation rules
 * 19: few-shot learning
 * 20: transfer learning in english
+* 21: semantic differential method
 * 
 
