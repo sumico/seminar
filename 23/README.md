@@ -2,8 +2,6 @@
 page 1
 ![image](https://github.com/user-attachments/assets/0863b134-aaac-4e55-8c0c-cbf2956d8310)
 
-Source: https://coastwatch.pfeg.noaa.gov/erddap
-
 ---
 page 2
 ![image](https://github.com/user-attachments/assets/7e0980d2-eff5-46ca-8792-2172a16bb5eb)
