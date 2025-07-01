@@ -15,7 +15,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 11: waste landfill sites
 * 12: Spatial interpolation in QGIS
 * 13: Spatiotemporal
-* 14: Reinforcement Learning (source code) updated
+* 14: Reinforcement Learning (updated)
 * 15: Learning flow with PyTorch
 * 16: Solar flare
 * 17: NOAA
@@ -25,6 +25,8 @@ The datasets and materials used in the class are stored in **each folder**.
 * 21: semantic differential method
 * 22: Google Forms
 * 23: data preprocessing (Numpy array)
+* 24: GRPO（Group Relative Policy Optimization）
+* 
 * 
 
 
