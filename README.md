@@ -27,6 +27,5 @@ The datasets and materials used in the class are stored in **each folder**.
 * 23: data preprocessing (Numpy array)
 * 24: GRPO（Group Relative Policy Optimization）
 * 
-* 
 
 
