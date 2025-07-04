@@ -30,7 +30,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 25: sampling bias
 * 26: Feature extraction of text
 * 27: data preprocessing (rasterio)
-* 28: predict air quality using deep learning
+* 28: predict air quality using machine learning
 * 
 
 
