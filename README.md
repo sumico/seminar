@@ -31,6 +31,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 26: Feature extraction of text
 * 27: data preprocessing (rasterio)
 * 28: predict air quality using machine learning
+* 29: Overfitting
 * 
 
 
