@@ -17,6 +17,10 @@
 * データの前処理
 ---
 
+CTGAN
+
+https://github.com/sdv-dev/CTGAN/blob/main/README.md
+
 構造化データ：adult.csvを使用
 
                Model  Accuracy  Precision  Recall  F1 Score
