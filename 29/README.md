@@ -17,14 +17,20 @@
 * データの前処理
 ---
                Model  Accuracy  Precision  Recall  F1 Score
+
 0  Logistic Regression    0.8034     0.6959  0.3993    0.5075
+
 1        Decision Tree    0.8084     0.6199  0.6320    0.6259
+
 2        Random Forest    0.8523     0.7404  0.6431    0.6884
+
 3    Gradient Boosting    0.8626     0.8024  0.6078    0.6917
+
 Gradient Boosting が最も高精度（86.3%）
 
 ---
 DL
+
 Test Accuracy: 0.85
 
 
