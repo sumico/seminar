@@ -16,6 +16,9 @@
 * 早期終了（Early Stopping）
 * データの前処理
 ---
+
+構造化データ：adult.csvを使用
+
                Model  Accuracy  Precision  Recall  F1 Score
 
 0  Logistic Regression    0.8034     0.6959  0.3993    0.5075
