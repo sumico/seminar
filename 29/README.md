@@ -34,6 +34,8 @@ Gradient Boosting が最も高精度（86.3%）
 ---
 DL
 
+![image](https://github.com/user-attachments/assets/67baaca8-10c0-45cc-b9cb-0e4204c88c3b)
+
 Test Accuracy: 0.85
 
 
