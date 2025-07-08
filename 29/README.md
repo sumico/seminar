@@ -8,7 +8,7 @@
 * クロスバリデーション（Cross Validation）
 * モデルの簡素化
 ---
-過学習を解決する手法(表形式データの場合)
+過学習を解決する手法(構造化データの場合)
 * 特徴量選択（Feature Selection）
 * 正則化（Regularization）
 * 交差検証（Cross Validation）
