@@ -14,6 +14,8 @@ page 2
 
 The image size is 28 x 28 (pixels), and each image data has a correct answer label indicating “which number is written”.
 
+Each pixel contains a value ranging from 0 to 255, depending on its concentration.
+
 <img width="947" height="708" alt="image" src="https://github.com/user-attachments/assets/567b3269-c109-4f55-8244-6722a683496b" />
 
 ---
