@@ -20,7 +20,7 @@ The image size is 28 x 28 (pixels), and each image data has a correct answer lab
 
 page 3
 
-Row 1: Correct answer label/Pixel 0 to pixel 783 (=784) pixel value
+Row 1: Correct answer label/Pixel 0 to pixel 783 (=784) pixel value (28 * 28 = 784) (2^8 = 2 to the power of 8 = 256)
 
 The correct answer label contains the correct answer as it is, but convert it to one-hot-encoding 
 
