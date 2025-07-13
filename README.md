@@ -32,6 +32,6 @@ The datasets and materials used in the class are stored in **each folder**.
 * 27: data preprocessing (rasterio)
 * 28: predict air quality using machine learning
 * 29: Overfitting
-* 
+* 30: data preprocessing (csv)
 
 
