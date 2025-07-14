@@ -34,6 +34,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 29: Overfitting (updated)
 * 30: data preprocessing (csv)
 * 31: one-shot
+* 32: Feature scaling
 * 
 
 
