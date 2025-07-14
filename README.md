@@ -33,5 +33,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 28: predict air quality using machine learning
 * 29: Overfitting (updated)
 * 30: data preprocessing (csv)
+* 31: one-shot
+* 
 
 
