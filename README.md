@@ -35,6 +35,8 @@ The datasets and materials used in the class are stored in **each folder**.
 * 30: data preprocessing (csv)
 * 31: one-shot
 * 32: Feature scaling
+* 33: Standardization of NDVI by region
 * 
+
 
 
