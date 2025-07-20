@@ -37,6 +37,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 32: Feature scaling
 * 33: Standardization of NDVI by region
 * 34: Feature extraction by BERT
+* 35: snscrape
 * 
 
 
