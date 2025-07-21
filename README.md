@@ -39,6 +39,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 34: Feature extraction by BERT
 * 35: snscrape
 * 36: Planetary Health
+* 37: Parquet
 * 
 
 
