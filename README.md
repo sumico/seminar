@@ -40,6 +40,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 35: snscrape
 * 36: Planetary Health
 * 37: Parquet
+* 38: STAC API
 * 
 
 
