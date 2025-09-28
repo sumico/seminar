@@ -42,7 +42,8 @@ The datasets and materials used in the class are stored in **each folder**.
 * 37: Parquet
 * 38: STAC API
 * 39: Fundamentals of deep learning in English
-* 
+* 40: semantic segmentation in English
+*  
 
 
 
