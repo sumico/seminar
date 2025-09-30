@@ -43,7 +43,9 @@ The datasets and materials used in the class are stored in **each folder**.
 * 38: STAC API
 * 39: Fundamentals of deep learning in English
 * 40: semantic segmentation in English
-*  
+* 41: feature
+* 42: feature in English
+* 
 
 
 
