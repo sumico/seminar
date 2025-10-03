@@ -2,7 +2,7 @@
 
 このノートブックは、2025年9月12日に開催された TNView ウェビナー「Unlocking the Power of GeoAI with Python」 のために作成された教材です。
 
-GeoAI Python パッケージ（https://opengeoai.org）を用いて、衛星画像・航空写真・多様な地理空間データを効率的に処理・解析する方法を紹介しています。
+GeoAI Python パッケージ（https://opengeoai.org）   を用いて、衛星画像・航空写真・多様な地理空間データを効率的に処理・解析する方法を紹介しています。
 
 具体的には以下の機能が紹介されています：
 
