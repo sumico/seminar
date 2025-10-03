@@ -45,6 +45,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 40: semantic segmentation in English
 * 41: feature
 * 42: feature in English
+* 43: GeoAI Python package
 * 
 
 
