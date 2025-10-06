@@ -2,7 +2,7 @@
 
 上智大学の大学院応用データサイエンス学位プログラムの中許 眞さんと深澤 佑介准教授との共著論文が、国際学術誌「International Journal of Data Science and Analytics」に掲載されました
 
-A paper co-authored by Makoto Nakamori of Sophia University's Graduate School Applied Data Science Degree Program and Associate Professor Yusuke Fukasawa has been published in the international academic journal “International Journal of Data Science and Analytics.”
+A paper co-authored by Shin Nakamoto of Sophia University's Graduate School Applied Data Science Degree Program and Associate Professor Yusuke Fukazawa has been published in the international academic journal “International Journal of Data Science and Analytics.”
 
 媒体名：International Journal of Data Science and Analytics
 
