@@ -47,6 +47,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 42: feature in English
 * 43: GeoAI Python package
 * 44: Crop type mapping with Deep Learning
+* 45: Data collection and preprocessing
 * 
 
 
