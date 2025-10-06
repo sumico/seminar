@@ -48,6 +48,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 43: GeoAI Python package
 * 44: Crop type mapping with Deep Learning
 * 45: Walkability
+* 46: Paper on bear appearance prediction
 * 
 
 
