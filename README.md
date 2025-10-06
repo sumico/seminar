@@ -49,6 +49,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 44: Crop type mapping with Deep Learning
 * 45: Walkability
 * 46: Paper on bear appearance prediction
+* 47: Flava
 * 
 
 
