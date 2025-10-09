@@ -1,4 +1,5 @@
 
+page 1
 
 上智大学の大学院応用データサイエンス学位プログラムの中許 眞さんと深澤 佑介准教授との共著論文が、国際学術誌「International Journal of Data Science and Analytics」に掲載されました
 
@@ -17,3 +18,10 @@ A paper co-authored by Shin Nakamoto and Associate Professor Yusuke Fukazawa has
 論文概要：https://www.sophia.ac.jp/jpn/article/news/release/250930_bear　（上智大学ホームページ）
 
 論文全文：https://x.gd/iLuZW
+
+---
+page 2
+
+This study develops a machine learning model that predicts human–bear encounters using temporal, environmental, and demographic factors. The integrated model achieved the best performance, with temporal and environmental variables being the most influential. The approach can support early-warning systems and proactive wildlife management to prevent human–bear conflicts.
+
+---
