@@ -17,7 +17,7 @@ page 1
 ---
 page 2
 
-In imbalanced data, one class (e.g., positive/negative) is much smaller than the other.
+In **imbalanced data**, one class (e.g., positive/negative) is much smaller than the other.
 This causes the model to favor the majority class and fail to learn the minority class properly.
 As a result, the model may show high accuracy but poor real performance, especially in detecting rare cases.
 Therefore, balancing techniques (e.g., sampling, weighting) are needed.
