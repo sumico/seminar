@@ -51,6 +51,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 46: Paper on bear appearance prediction
 * 47: Flava
 * 48: Fake news data and reinforcement learning
+* 49: imbalanced data
 * 
 
 
