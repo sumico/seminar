@@ -1,5 +1,10 @@
 page 1
 
+不均衡データ（imbalanced data）
+<img width="402" height="243" alt="image" src="https://github.com/user-attachments/assets/1de41e9f-58be-40d0-819d-81b68b8e38fe" />
+
+Source: https://book-read-yoshi.hatenablog.com/entry/2021/07/31/imbalanced_data_smote
+
 **不均衡データ**では、一方のクラス（例：ポジティブ／ネガティブ）が極端に少ないため、
 モデルが多数派クラスばかりを正解と予測してしまい、少数派クラスを正しく学習できなくなる可能性がある。
 その結果、精度が高く見えても実際の性能（特に少数派クラス検出能力）が低下する。
