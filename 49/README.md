@@ -1,6 +1,7 @@
 page 1
 
 不均衡データ（imbalanced data）
+
 <img width="402" height="243" alt="image" src="https://github.com/user-attachments/assets/1de41e9f-58be-40d0-819d-81b68b8e38fe" />
 
 Source: https://book-read-yoshi.hatenablog.com/entry/2021/07/31/imbalanced_data_smote
