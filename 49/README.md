@@ -14,6 +14,16 @@ page 1
 分類問題では「undersampling ≒ downsampling」ですが、
 文脈（特に時系列や画像処理）によっては「意味が異なる」ことに注意が必要。
 
+画像処理での意味
+
+Downsampling
+→ 画像の**解像度を下げる（画素数を減らす）**処理。
+例：512×512 → 128×128
+
+Undersampling
+→ サンプリング点を間引くという信号処理的な意味を持ち、
+画像全体を縮小する downsampling とは異なる。
+
 ---
 page 2
 
@@ -28,6 +38,15 @@ Therefore, balancing techniques (e.g., sampling, weighting) are needed.
 In classification tasks, “undersampling” ≒ “downsampling”,
 but their meanings can differ depending on the context,
 especially in time-series or image processing.
+
+In image processing
+
+Downsampling
+→ Reducing spatial resolution, e.g., 512×512 → 128×128 pixels.
+
+Undersampling
+→ Refers to insufficient sampling of data points (in signal theory),
+not exactly the same as resizing or reducing image resolution.
 
 ---
 
