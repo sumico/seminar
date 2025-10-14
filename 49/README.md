@@ -6,6 +6,9 @@ page 1
 
 Source: https://book-read-yoshi.hatenablog.com/entry/2021/07/31/imbalanced_data_smote
 
+---
+page 2
+
 **不均衡データ**では、一方のクラス（例：ポジティブ／ネガティブ）が極端に少ないため、
 モデルが多数派クラスばかりを正解と予測してしまい、少数派クラスを正しく学習できなくなる可能性がある。
 その結果、精度が高く見えても実際の性能（特に少数派クラス検出能力）が低下する。
@@ -31,7 +34,7 @@ Undersampling
 画像全体を縮小する downsampling とは異なる。
 
 ---
-page 2
+page 3
 
 In **imbalanced data**, one class (e.g., positive/negative) is much smaller than the other.
 This causes the model to favor the majority class and fail to learn the minority class properly.
