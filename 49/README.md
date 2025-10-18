@@ -20,7 +20,7 @@ page 2
 * オーバーサンプリング（Oversampling）：少数クラスのデータを増やす。
 * アンダーサンプリング（Undersampling）：多数クラスのデータを減らす。
 
-分類問題では「undersampling ≒ downsampling」ですが、
+分類問題では「undersampling ≒ (おおよそ等しい) downsampling」ですが、
 文脈（特に時系列や画像処理）によっては「意味が異なる」ことに注意が必要。
 
 画像処理での意味
