@@ -44,7 +44,7 @@ Therefore, balancing techniques (e.g., sampling, weighting) are needed.
 * Oversampling: Increase minority class samples.
 * Undersampling: Reduce majority class samples.
 
-In classification tasks, “undersampling” ≒ “downsampling”,
+In classification tasks, “undersampling” ≒ (nearly equal) “downsampling”,
 but their meanings can differ depending on the context,
 especially in time-series or image processing.
 
