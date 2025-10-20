@@ -12,3 +12,26 @@ page 2
 Multimodal AI is used for prediction and classification when utilizing different types of data, such as numerical data and text data.
 
 ---
+page 3
+
+Error message:
+
+Can't load the model for 'facebook/flava-full'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'facebook/flava-full' is the correct path to a directory containing a file named pytorch_model.bin, tf_model.h5, model.ckpt or flax_model.msgpack.
+
+JPN: facebook/flava-full は Hugging Face Hub から削除されており、現在は利用できません。そのため、エラーは「モデルが存在しない」ことが原因。
+
+ENG: facebook/flava-full has been removed from Hugging Face Hub and is currently unavailable. Therefore, the error is caused by the model not existing.
+
+修正方法/How to fix it: 
+
+facebook/flava-full の代わりに、同じ FLAVA 系列のモデルを使う。/Instead of facebook/flava-full, use a model from the same FLAVA family.
+
+from transformers import AutoProcessor, FlavaModel　→　from transformers import FlavaProcessor, FlavaModel
+
+model_name = "facebook/flava"  # 修正
+
+processor = FlavaProcessor.from_pretrained(model_name)
+
+当方の環境では実行可。修正中。
+
+
