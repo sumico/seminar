@@ -18,7 +18,7 @@ Error message:
 
 Can't load the model for 'facebook/flava-full'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'facebook/flava-full' is the correct path to a directory containing a file named pytorch_model.bin, tf_model.h5, model.ckpt or flax_model.msgpack.
 
-JPN: facebook/flava-full は Hugging Face Hub から削除されており、現在は利用できません。そのため、エラーは「モデルが存在しない」ことが原因。
+JPN: facebook/flava-full は Hugging Face Hub から削除されており、現在は利用不可。そのため、エラーは「モデルが存在しない」ことが原因。
 
 ENG: facebook/flava-full has been removed from Hugging Face Hub and is currently unavailable. Therefore, the error is caused by the model not existing.
 
