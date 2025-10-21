@@ -28,10 +28,16 @@ facebook/flava-full の代わりに、同じ FLAVA 系列のモデルを使う�
 
 from transformers import AutoProcessor, FlavaModel　→　from transformers import FlavaProcessor, FlavaModel
 
-model_name = "facebook/flava"  # 修正
+# 旧/old: "facebook/flava-full"
 
-processor = FlavaProcessor.from_pretrained(model_name)
+# 新/new: "facebook/flava"
 
-当方の環境では実行可。修正中。
+processor = FlavaProcessor.from_pretrained("facebook/flava")
+
+model = FlavaModel.from_pretrained("facebook/flava")
+
+---
+
+
 
 
