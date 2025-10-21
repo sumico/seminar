@@ -37,6 +37,14 @@ processor = FlavaProcessor.from_pretrained("facebook/flava")
 model = FlavaModel.from_pretrained("facebook/flava")
 
 ---
+page 4
+
+
+facebook/flava-full (no facebook/flava): https://huggingface.co/facebook/flava-full
+
+<img width="1218" height="789" alt="image" src="https://github.com/user-attachments/assets/a5196679-35fd-4d0c-b2d5-f9d5632a577e" />
+
+---
 
 
 
