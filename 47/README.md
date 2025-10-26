@@ -9,7 +9,13 @@ Source: https://wellsr.com/python/fine-tuning-hugging-face-multimodal-transforme
 ---
 page 2
 
+マルチモーダルAIは、数値データやテキストデータなど、異なる種類のデータを活用する際に、予測や分類のために用いられる。
+
 Multimodal AI is used for prediction and classification when utilizing different types of data, such as numerical data and text data.
+
+マルチモーダルデータ処理とは、テキスト・画像・音声など異なる形式（モダリティ）のデータを統合して解析する技術。複数の情報源を組み合わせることで、単一モダリティでは得られない深い洞察を得ることができる。近年では、Transformerアーキテクチャを用いたマルチモーダルモデルが最先端の手法として注目されている。
+
+Multimodal data processing integrates different types of data—such as text, images, audio, and video—to analyze them together. By combining multiple modalities, we can uncover richer insights than using a single source of information. Recently, transformer-based architectures have become state-of-the-art for multimodal tasks.
 
 ---
 page 3
