@@ -1,5 +1,5 @@
 Example Table: Structured Data with Missing Values
-<img width="1586" height="492" alt="image" src="https://github.com/user-attachments/assets/e4a9ede0-b080-48f8-bc55-9a2fbafbe932" />
+<img width="1461" height="494" alt="image" src="https://github.com/user-attachments/assets/d025c3ce-fce4-4b47-907b-3ac53da88377" />
 
 ---
 構造化データにおける欠損値
