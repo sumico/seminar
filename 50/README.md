@@ -1,12 +1,7 @@
 Example Table: Structured Data with Missing Values
-ID	Age	Gender	Income (USD)	Education Level	COVID-19 Risk Score
-001	45	Female	58,000	Bachelor’s	0.72
-002	53	Male	Missing	Master’s	0.81
-003	Missing	Female	42,000	High School	0.54
-004	36	Missing	75,000	Bachelor’s	0.68
-005	29	Male	50,000	Missing	Missing
+<img width="1586" height="492" alt="image" src="https://github.com/user-attachments/assets/e4a9ede0-b080-48f8-bc55-9a2fbafbe932" />
 
-
+---
 構造化データにおける欠損値
 
 欠損値（missing value）とは、本来存在するはずのデータが観測・記録されなかった状態を指す。
