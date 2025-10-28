@@ -53,6 +53,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 48: Fake news data and reinforcement learning
 * 49: imbalanced data
 * 50: missing values
+* 51: air pollution and COVID-19
 * 
 
 
