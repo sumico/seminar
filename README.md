@@ -55,6 +55,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 50: missing values
 * 51: air pollution and COVID-19
 * 52: GCN
+* 53: land cover classification
 * 
 
 
