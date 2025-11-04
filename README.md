@@ -56,6 +56,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 51: air pollution and COVID-19
 * 52: GCN
 * 53: land cover classification
+* 54: RICE (Remote Sensing Images for Cloud Removal)
 * 
 
 
