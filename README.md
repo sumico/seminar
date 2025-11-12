@@ -58,6 +58,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 53: land cover classification
 * 54: RICE (Remote Sensing Images for Cloud Removal)
 * 55: Open Data on AWS
+* 56: Key Multimodal-related APIs
 * 
 
 
