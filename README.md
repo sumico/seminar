@@ -60,6 +60,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 55: Open Data on AWS
 * 56: Key Multimodal-related APIs
 * 57: Time-Series Analysis of Sentinel-2 (AWS Open Data) + Machine Learning
+* 58: multimodal classifier
 * 
 
 
