@@ -59,6 +59,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 54: RICE (Remote Sensing Images for Cloud Removal)
 * 55: Open Data on AWS
 * 56: Key Multimodal-related APIs
+* 57: AWS+time-series+ML
 * 
 
 
