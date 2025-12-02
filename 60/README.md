@@ -28,7 +28,5 @@ Model: PyTorch implementation using a late fusion architecture. Combines outputs
 
 Explainability: Visualizes the contribution of tabular features (price/rating/discount) to the prediction (buy=1) using SHAP (KernelExplainer). *For SHAP analysis within multimodal data, images and text are zero-padded to focus on the contribution of numerical features.
 
-Translated with DeepL.com (free version)
-
 ---
 
