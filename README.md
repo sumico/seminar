@@ -62,6 +62,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 57: Time-Series Analysis of Sentinel-2 (AWS Open Data) + Machine Learning
 * 58: multimodal classifier
 * 59: multimodal (Election outcome prediction)
+* 60: multimodal (marketing)
 * 
 
 
