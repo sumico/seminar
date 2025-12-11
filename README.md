@@ -64,6 +64,7 @@ The datasets and materials used in the class are stored in **each folder**.
 * 59: multimodal (Election outcome prediction)
 * 60: multimodal (marketing)
 * 61: SEM
+* 62: AWS STAC Semantic Segmentation
 * 
 
 
